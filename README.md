@@ -2,15 +2,15 @@
 Modern Data Architecture on Azure
 
 PART ONE: Building AI first data architecture on Azure
-1
+#1
 The Foundation of AI First Cloud Data Architecture
-2
+#2
 Microsoft Intelligent Data Platform
-3
+#3
 Modern Data Storage Solutions on Azure
-4
+#4
 Data Processing and Analytics at Scale
-5
+#5
 Data Security and Identity Management
 
 
