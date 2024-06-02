@@ -1,0 +1,4 @@
+*.env
+backup
+backup/*.*
+__pycache__
